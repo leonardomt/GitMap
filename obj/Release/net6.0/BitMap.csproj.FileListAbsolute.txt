@@ -1,0 +1,15 @@
+C:\Users\LEONARDO\source\repos\BitMap\bin\Release\net6.0\BitMap.exe
+C:\Users\LEONARDO\source\repos\BitMap\bin\Release\net6.0\BitMap.deps.json
+C:\Users\LEONARDO\source\repos\BitMap\bin\Release\net6.0\BitMap.runtimeconfig.json
+C:\Users\LEONARDO\source\repos\BitMap\bin\Release\net6.0\BitMap.dll
+C:\Users\LEONARDO\source\repos\BitMap\bin\Release\net6.0\ref\BitMap.dll
+C:\Users\LEONARDO\source\repos\BitMap\bin\Release\net6.0\BitMap.pdb
+C:\Users\LEONARDO\source\repos\BitMap\obj\Release\net6.0\BitMap.csproj.AssemblyReference.cache
+C:\Users\LEONARDO\source\repos\BitMap\obj\Release\net6.0\BitMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEONARDO\source\repos\BitMap\obj\Release\net6.0\BitMap.AssemblyInfoInputs.cache
+C:\Users\LEONARDO\source\repos\BitMap\obj\Release\net6.0\BitMap.AssemblyInfo.cs
+C:\Users\LEONARDO\source\repos\BitMap\obj\Release\net6.0\BitMap.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\source\repos\BitMap\obj\Release\net6.0\BitMap.dll
+C:\Users\LEONARDO\source\repos\BitMap\obj\Release\net6.0\ref\BitMap.dll
+C:\Users\LEONARDO\source\repos\BitMap\obj\Release\net6.0\BitMap.pdb
+C:\Users\LEONARDO\source\repos\BitMap\obj\Release\net6.0\BitMap.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHOOQXfLuMOXVLR3PWMxUFZePgYAqro+ge8VBJsl3CNxNp4VD2Rora6D9DNr0VuTHc29yEovVdDqbU1h9/ZTIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEONARDO\\source\\repos\\BitMap\\BitMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\LEONARDO\source\repos\BitMap\obj\Debug\net5.0\BitMap.csproj.AssemblyReference.cache
+C:\Users\LEONARDO\source\repos\BitMap\obj\Debug\net5.0\BitMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEONARDO\source\repos\BitMap\obj\Debug\net5.0\BitMap.AssemblyInfoInputs.cache
+C:\Users\LEONARDO\source\repos\BitMap\obj\Debug\net5.0\BitMap.AssemblyInfo.cs
+C:\Users\LEONARDO\source\repos\BitMap\obj\Debug\net5.0\BitMap.csproj.CoreCompileInputs.cache
